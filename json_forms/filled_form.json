@@ -1,0 +1,142 @@
+[
+  {
+    "id": "f9c2ff14-c17a-4ebf-866f-5f33fdb749b7",
+    "q": "When did your symptoms start?",
+    "a": "Yesterday night",
+    "isFile": false,
+    "answerData": "Yesterday night"
+  },
+  {
+    "id": "vomiting",
+    "q": "Do you have vomiting?",
+    "a": "Yes",
+    "isFile": false,
+    "answerData": "Yes"
+  },
+  {
+    "id": "blood_in_vomit",
+    "q": "Do you see any blood in the vomit?",
+    "a": "No",
+    "isFile": false,
+    "answerData": "No"
+  },
+  {
+    "id": "56e215b6-50e2-4087-bb4d-f6ca13b2015c",
+    "q": "Was your vomit green or yellow?",
+    "a": "Yes",
+    "isFile": false,
+    "answerData": "Yes"
+  },
+  {
+    "id": "79c4bc47-2f1a-4631-9558-0ddc703122ba",
+    "q": "Have you used any recreational drugs recently?",
+    "a": "Yes",
+    "isFile": false,
+    "answerData": "Yes"
+  },
+  {
+    "id": "809ab570-c52f-4bfa-a5b9-485842225367",
+    "q": "Have you recently experienced motion sickness from things like amusement park rides, cars, or boats?",
+    "a": "No",
+    "isFile": false,
+    "answerData": "No"
+  },
+  {
+    "id": "diarrhea",
+    "q": "Do you have diarrhea?",
+    "a": "Yes",
+    "isFile": false,
+    "answerData": "Yes"
+  },
+  {
+    "id": "09b6de95-993e-4c58-be17-69200cc9d957",
+    "q": "Does the diarrhea occur when fasting?",
+    "a": "No",
+    "isFile": false,
+    "answerData": "No"
+  },
+  {
+    "id": "a0a30bc0-9900-44e4-9ba7-89467a136998",
+    "q": "Does the diarrhea occur at night?",
+    "a": "Yes",
+    "isFile": false,
+    "answerData": "Yes"
+  },
+  {
+    "id": "54c4eda2-6c05-4716-8d16-a85377981743",
+    "q": "Do you experience pain with diarrhea?",
+    "a": "No",
+    "isFile": false,
+    "answerData": "No"
+  },
+  {
+    "id": "df52a5d6-5429-4064-b475-923ed11595c7",
+    "q": "When was your last bowel movement?",
+    "a": "3 hours ago",
+    "isFile": false,
+    "answerData": "3 hours ago"
+  },
+  {
+    "id": "e67d3a2c-b527-45f6-b7d1-e30f4bcc9bde",
+    "q": "How many bowel movements are you having per 24hr period?",
+    "a": "3-4",
+    "isFile": false,
+    "answerData": "3-4"
+  },
+  {
+    "id": "blood_in_stool",
+    "q": "Is there any blood in your stool?",
+    "a": "No",
+    "isFile": false,
+    "answerData": "No"
+  },
+  {
+    "id": "1f011948-9b58-446b-8ca2-49120b676e6a",
+    "q": "Is there any mucus in your stool?",
+    "a": "Yes",
+    "isFile": false,
+    "answerData": "Yes"
+  },
+  {
+    "id": "810bd599-a920-4719-9036-8e25982cce80",
+    "q": "Do you feel as though you have to rush to the bathroom once you have the urge to have a bowel movement?",
+    "a": "Yes",
+    "isFile": false,
+    "answerData": "Yes"
+  },
+  {
+    "id": "traveled_internationally",
+    "q": "Have you recently traveled internationally?",
+    "a": "No",
+    "isFile": false,
+    "answerData": "No"
+  },
+  {
+    "id": "a72ec67d-60f3-4b5a-8524-3def46b62e39",
+    "q": "Does anyone else in your household have the same symptoms?",
+    "a": "Yes",
+    "isFile": false,
+    "answerData": "Yes"
+  },
+  {
+    "id": "c5d7ff20-42d4-41f8-836c-4b42b7a20ce1",
+    "q": "What have you tried for your symptoms?",
+    "a": "Taking some probiotics",
+    "isFile": false,
+    "answerData": "Taking some probiotics"
+  },
+  {
+    "id": "6b0a1790-4537-461d-acef-3eb3b8e0b562",
+    "q": "Did it help?",
+    "a": "No",
+    "isFile": false,
+    "answerData": "No"
+  },
+  {
+    "id": "b6d176a8-4ece-4a20-a468-c7d9f281f302",
+    "q": "What state are you currently in (e.g., Wisconsin, Minnesota)?",
+    "a": "Wisconsin",
+    "isFile": false,
+    "answerData": "Wisconsin"
+  }
+]
