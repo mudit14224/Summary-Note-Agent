@@ -3,9 +3,9 @@ import json
 from typing import Dict
 
 # Function to create the qa string from the json file
-def get_qa_string(json_path):
-    with open(json_path) as f:
-        data = json.load(f)
+def get_qa_string(data):
+    # with open(json_path) as f:
+    #     data = json.load(f)
     n = len(data)
     qa_string = ""
     for i in range(n):
